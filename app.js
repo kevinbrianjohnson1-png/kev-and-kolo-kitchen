@@ -79,7 +79,7 @@ function render(results){
 }
 async function init(){
   [cookbooks,recipes,ingredients,tags,recipeIngredients,recipeTags,synonyms] = await Promise.all([
-    loadJson('../data/cookbooks.json'), loadJson('../data/recipes.json'), loadJson('../data/ingredients.json'), loadJson('../data/tags.json'), loadJson('../data/recipe_ingredients.json'), loadJson('../data/recipe_tags.json'), loadJson('../data/synonyms.json')
+    loadJson('data/cookbooks.json'), loadJson('data/recipes.json'), loadJson('data/ingredients.json'), loadJson('data/tags.json'), loadJson('data/recipe_ingredients.json'), loadJson('data/recipe_tags.json'), loadJson('data/synonyms.json')
   ]);
   ingredientById=Object.fromEntries(ingredients.map(i=>[i.id,i])); tagById=Object.fromEntries(tags.map(t=>[t.id,t])); cookbookById=Object.fromEntries(cookbooks.map(c=>[c.id,c]));
   mealTags.forEach(m=>chip($('mealChips'),m,(l,e)=>{state.meal=state.meal===l?null:l; [...$('mealChips').children].forEach(x=>x.classList.remove('active')); if(state.meal)e.classList.add('active');}));
