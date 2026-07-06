@@ -1,0 +1,52 @@
+[
+  {
+    "term": "thinly sliced beef",
+    "maps_to": "beef",
+    "type": "ingredient"
+  },
+  {
+    "term": "beef strips",
+    "maps_to": "beef",
+    "type": "ingredient"
+  },
+  {
+    "term": "steak",
+    "maps_to": "beef",
+    "type": "ingredient"
+  },
+  {
+    "term": "sirloin",
+    "maps_to": "beef",
+    "type": "ingredient"
+  },
+  {
+    "term": "rump",
+    "maps_to": "beef",
+    "type": "ingredient"
+  },
+  {
+    "term": "pork chops",
+    "maps_to": "pork",
+    "type": "ingredient"
+  },
+  {
+    "term": "hot",
+    "maps_to": "spicy",
+    "type": "tag"
+  },
+  {
+    "term": "chilli",
+    "maps_to": "spicy",
+    "type": "tag"
+  },
+  {
+    "term": "asian",
+    "maps_to": "asian",
+    "type": "tag"
+  },
+  {
+    "term": "fakeaway",
+    "maps_to": "fakeaway",
+    "type": "tag"
+  }
+]

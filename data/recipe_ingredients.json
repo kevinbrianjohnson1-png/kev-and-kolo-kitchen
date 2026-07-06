@@ -1,0 +1,2352 @@
+[
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_ale",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_parsnips",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_beef_and_ale_casserole",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mediterranean_beef_burgers",
+    "ingredient_id": "i_basil",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mediterranean_beef_burgers",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mediterranean_beef_burgers",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mediterranean_beef_burgers",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peppered_steak_with_mushrooms",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peppered_steak_with_mushrooms",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peppered_steak_with_mushrooms",
+    "ingredient_id": "i_steak",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peppered_steak_with_mushrooms",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_beef_lasagne",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_cabbage",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_pasta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_rich_and_meaty_bolognese",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_pastry",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_peas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_low_fat_minced_beef_and_potato_pies",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_pie",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_beans",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_con_carne",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_spring_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_salad_bowls",
+    "ingredient_id": "i_tortillas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_italian_meatballs_with_chunky_tomato_sauce",
+    "ingredient_id": "i_beef",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_italian_meatballs_with_chunky_tomato_sauce",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_italian_meatballs_with_chunky_tomato_sauce",
+    "ingredient_id": "i_pork",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_italian_meatballs_with_chunky_tomato_sauce",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_coconut_milk",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_kaffir_lime_leaves",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_limes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_nam_pla",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_very_easy_thai_chicken_curry",
+    "ingredient_id": "i_thai_fish_sauce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_turmeric",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_jalfrezi",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_cardamom",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_saffron",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_turmeric",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_korma",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_cardamom",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_fenugreek",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_limes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_mint",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_turmeric",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_bulgur_wheat",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_spring_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cajun_spiced_chicken_with_potato_wedges_and_chive_dip",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cajun_spiced_chicken_with_potato_wedges_and_chive_dip",
+    "ingredient_id": "i_chives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cajun_spiced_chicken_with_potato_wedges_and_chive_dip",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_paprika_chicken",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_paprika_chicken",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_paprika_chicken",
+    "ingredient_id": "i_paprika",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_paprika_chicken",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_paprika_chicken",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_pineapple",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sweet_and_sour_chicken",
+    "ingredient_id": "i_water_chestnuts",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_chorizo_sausage",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_southern_style_jambalaya",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spanish_style_chicken_bake",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spanish_style_chicken_bake",
+    "ingredient_id": "i_chorizo_sausage",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spanish_style_chicken_bake",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spanish_style_chicken_bake",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spanish_style_chicken_bake",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_mushroom_risotto",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_mushroom_risotto",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_mushroom_risotto",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_mushroom_risotto",
+    "ingredient_id": "i_parmesan",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_mushroom_risotto",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_bacon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_cider",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_easy_crispy_chicken",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_easy_crispy_chicken",
+    "ingredient_id": "i_parmesan",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_easy_crispy_chicken",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_bacon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_chives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_gravy",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemon_and_thyme_roast_chicken",
+    "ingredient_id": "i_thyme",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_ham_tangle_pie",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_ham_tangle_pie",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_ham_tangle_pie",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_ham_tangle_pie",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_ham_tangle_pie",
+    "ingredient_id": "i_pastry",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_parma_ham_topless_sandwiches",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_parma_ham_topless_sandwiches",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_and_parma_ham_topless_sandwiches",
+    "ingredient_id": "i_parma_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_chicken_ham_and_grapes_snack",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_chicken_ham_and_grapes_snack",
+    "ingredient_id": "i_grapes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_chicken_ham_and_grapes_snack",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_coconut_prawn_curry",
+    "ingredient_id": "i_coconut_milk",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_coconut_prawn_curry",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_coconut_prawn_curry",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_coconut_prawn_curry",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_kaffir_lime_leaves",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_lemongrass",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_limes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_mangetout_peas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_nam_pla",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_noodles",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_pork",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "ingredient_id": "i_shallots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_quick_cod_and_prawn_gratin",
+    "ingredient_id": "i_cheddar",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_quick_cod_and_prawn_gratin",
+    "ingredient_id": "i_cod",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_quick_cod_and_prawn_gratin",
+    "ingredient_id": "i_haddock",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_quick_cod_and_prawn_gratin",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_quick_cod_and_prawn_gratin",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_cod",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_fish",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_mussels",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_saffron",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "ingredient_id": "i_cod",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "ingredient_id": "i_parmesan",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_salmon_with_chilli_ginger_sauce",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_salmon_with_chilli_ginger_sauce",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_salmon_with_chilli_ginger_sauce",
+    "ingredient_id": "i_oranges",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_salmon_with_chilli_ginger_sauce",
+    "ingredient_id": "i_salmon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_broccoli",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_fish",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_spaghetti",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "ingredient_id": "i_tuna",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_beans",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_chorizo_sausage",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_mussels",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_paprika",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_saffron",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_beachside_paella",
+    "ingredient_id": "i_squid",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_basil",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_fish",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_pine_nuts",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_sea_bass",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mussels_with_leeks_and_white_wine",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mussels_with_leeks_and_white_wine",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mussels_with_leeks_and_white_wine",
+    "ingredient_id": "i_mussels",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_apricots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_chickpeas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_lamb",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_limes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_sweet_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_tagine",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_ginger",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_lamb",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lamb_spinach_and_potato_curry",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lean_lamb_hotpot",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lean_lamb_hotpot",
+    "ingredient_id": "i_lamb",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lean_lamb_hotpot",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_fennel",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_lamb",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_marinade",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_thyme",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_lemony_lamb_kebabs",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gammon_with_parsley_sauce",
+    "ingredient_id": "i_gammon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_gammon_with_parsley_sauce",
+    "ingredient_id": "i_parsley_sauce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_pork_with_apple_gravy",
+    "ingredient_id": "i_apple_juice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_pork_with_apple_gravy",
+    "ingredient_id": "i_gravy",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_pork_with_apple_gravy",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roast_pork_with_apple_gravy",
+    "ingredient_id": "i_pork",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_beans",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_gammon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_orange",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_sausages",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_our_special_cassoulet",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_aubergines",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_beans",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_limes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_sweet_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_spicy_bean_and_vegetable_stew",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_basil",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_beans",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_cabbage",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_celery",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_curly_kale",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_feta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_parmesan",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_peas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_spaghetti",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minestrone_soup",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_golden_vegetable_soup",
+    "ingredient_id": "i_butternut_squash",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_golden_vegetable_soup",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_golden_vegetable_soup",
+    "ingredient_id": "i_chives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_golden_vegetable_soup",
+    "ingredient_id": "i_parsnips",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_golden_vegetable_soup",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_basil",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_butternut_squash",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_nutmeg",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_parmesan",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_pasta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_polenta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_home_made_butternut_squash_tortellini",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cumin_crusted_vegetables",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cumin_crusted_vegetables",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cumin_crusted_vegetables",
+    "ingredient_id": "i_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cumin_crusted_vegetables",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cumin_crusted_vegetables",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_warm_griddled_vegetables",
+    "ingredient_id": "i_courgettes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_warm_griddled_vegetables",
+    "ingredient_id": "i_halloumi",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_warm_griddled_vegetables",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "ingredient_id": "i_feta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "ingredient_id": "i_hazelnuts",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "ingredient_id": "i_mushrooms",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_asparagus",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_bacon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_filo_pastry",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_egg_bacon_and_asparagus_flan",
+    "ingredient_id": "i_pastry",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_chives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_chive_omelette",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minted_pea_and_feta_omelette",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minted_pea_and_feta_omelette",
+    "ingredient_id": "i_feta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minted_pea_and_feta_omelette",
+    "ingredient_id": "i_mint",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_minted_pea_and_feta_omelette",
+    "ingredient_id": "i_peas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_creme_fraiche",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_haddock",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_pumpernickel_bread",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_baked_haddock_spinach_and_egg_pots",
+    "ingredient_id": "i_spring_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_pan_fried_bacon_with_poached_egg_and_balsamic_tomatoes",
+    "ingredient_id": "i_bacon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_pan_fried_bacon_with_poached_egg_and_balsamic_tomatoes",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_pan_fried_bacon_with_poached_egg_and_balsamic_tomatoes",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_pan_fried_bacon_with_poached_egg_and_balsamic_tomatoes",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_scrambled_eggs_with_smoked_salmon",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_scrambled_eggs_with_smoked_salmon",
+    "ingredient_id": "i_smoked_salmon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_caesar_salad",
+    "ingredient_id": "i_anchovies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_caesar_salad",
+    "ingredient_id": "i_chicken",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_caesar_salad",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chicken_caesar_salad",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_capers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_gherkins",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_olives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_spinach",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_tuna_nicoise_wrap",
+    "ingredient_id": "i_tuna",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_pasta",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_spring_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_sweetcorn",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "ingredient_id": "i_tuna",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fruity_rice_salad",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fruity_rice_salad",
+    "ingredient_id": "i_grapes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fruity_rice_salad",
+    "ingredient_id": "i_pineapple",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fruity_rice_salad",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fruity_rice_salad",
+    "ingredient_id": "i_salad",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_almonds",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_fennel",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_harissa_dressing",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_oranges",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_rocket",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "ingredient_id": "i_sultanas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_chicory",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_radishes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_spring_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_good_basic_mixed_salad",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_posh_prawn_cocktail",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_posh_prawn_cocktail",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_posh_prawn_cocktail",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_posh_prawn_cocktail",
+    "ingredient_id": "i_smoked",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_posh_prawn_cocktail",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_a_very_english_sandwich",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_a_very_english_sandwich",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_a_very_english_sandwich",
+    "ingredient_id": "i_lettuce",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_a_very_english_sandwich",
+    "ingredient_id": "i_radishes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_a_very_english_sandwich",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_and_pickle_topless_sandwiches",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_and_pickle_topless_sandwiches",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mackerel_pate_and_watercress_topless_sandwiches",
+    "ingredient_id": "i_mackerel",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_mackerel_pate_and_watercress_topless_sandwiches",
+    "ingredient_id": "i_watercress",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_leek_and_onion_pasties",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_leek_and_onion_pasties",
+    "ingredient_id": "i_leeks",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_leek_and_onion_pasties",
+    "ingredient_id": "i_onions",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_leek_and_onion_pasties",
+    "ingredient_id": "i_potatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chewy_cranberry_and_apricot_bites",
+    "ingredient_id": "i_almonds",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chewy_cranberry_and_apricot_bites",
+    "ingredient_id": "i_apricots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chewy_cranberry_and_apricot_bites",
+    "ingredient_id": "i_cranberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chewy_cranberry_and_apricot_bites",
+    "ingredient_id": "i_oats",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chewy_cranberry_and_apricot_bites",
+    "ingredient_id": "i_sultanas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cranberry_and_almond_muesli",
+    "ingredient_id": "i_almonds",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cranberry_and_almond_muesli",
+    "ingredient_id": "i_cherries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cranberry_and_almond_muesli",
+    "ingredient_id": "i_cranberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cranberry_and_almond_muesli",
+    "ingredient_id": "i_muesli",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cranberry_and_almond_muesli",
+    "ingredient_id": "i_oats",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_apple_juice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_apples",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_blackberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_dried_fruit",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_granola",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_oats",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_plums",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_compote_with_home_made_granola",
+    "ingredient_id": "i_strawberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peanut_butter_and_apple_snack",
+    "ingredient_id": "i_apples",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_peanut_butter_and_apple_snack",
+    "ingredient_id": "i_peanut_butter",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cheese_and_pickle_snack",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_cheese_and_tomato_snack",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cottage_cheese_and_tomato_snack",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_emmental_and_tomatoes_snack",
+    "ingredient_id": "i_cheese",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_emmental_and_tomatoes_snack",
+    "ingredient_id": "i_tomatoes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_ham_and_pickle_snack",
+    "ingredient_id": "i_ham",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_hummus_and_vegetables_snack",
+    "ingredient_id": "i_hummus",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_cucumber_snack",
+    "ingredient_id": "i_cucumber",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_prawn_and_cucumber_snack",
+    "ingredient_id": "i_prawns",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_smoked_salmon_and_gherkins_snack",
+    "ingredient_id": "i_gherkins",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_smoked_salmon_and_gherkins_snack",
+    "ingredient_id": "i_smoked_salmon",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_trout_pate_snack",
+    "ingredient_id": "i_fish",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_marinated_olives_snack",
+    "ingredient_id": "i_olives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_red_pepper_hummus",
+    "ingredient_id": "i_chickpeas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_red_pepper_hummus",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_red_pepper_hummus",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_red_pepper_hummus",
+    "ingredient_id": "i_hummus",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_roasted_red_pepper_hummus",
+    "ingredient_id": "i_peppers",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chive_dip",
+    "ingredient_id": "i_chives",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cajun_spice_mix",
+    "ingredient_id": "i_cumin",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_cajun_spice_mix",
+    "ingredient_id": "i_paprika",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_dressing",
+    "ingredient_id": "i_chillies",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_chilli_dressing",
+    "ingredient_id": "i_coriander",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_harissa_dressing",
+    "ingredient_id": "i_harissa",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_bulgur_wheat_salad",
+    "ingredient_id": "i_bulgur_wheat",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_plum_rice_pudding",
+    "ingredient_id": "i_plums",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_plum_rice_pudding",
+    "ingredient_id": "i_rice",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sparkling_lemonade_and_lime_jelly",
+    "ingredient_id": "i_blueberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sparkling_lemonade_and_lime_jelly",
+    "ingredient_id": "i_puddings",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_sparkling_lemonade_and_lime_jelly",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_summer_fruit_meringues",
+    "ingredient_id": "i_blackberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_summer_fruit_meringues",
+    "ingredient_id": "i_eggs",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_summer_fruit_meringues",
+    "ingredient_id": "i_puddings",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_summer_fruit_meringues",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_summer_fruit_meringues",
+    "ingredient_id": "i_strawberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_lemon_cupcakes_with_drizzly_icing",
+    "ingredient_id": "i_blueberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_lemon_cupcakes_with_drizzly_icing",
+    "ingredient_id": "i_cakes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_skinny_lemon_cupcakes_with_drizzly_icing",
+    "ingredient_id": "i_lemons",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_moist_carrot_and_sultana_cake",
+    "ingredient_id": "i_cakes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_moist_carrot_and_sultana_cake",
+    "ingredient_id": "i_carrots",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_moist_carrot_and_sultana_cake",
+    "ingredient_id": "i_sultanas",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_swiss_roll",
+    "ingredient_id": "i_cakes",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_light_chocolate_mousse_with_raspberries",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_fresh_fruit_trifles",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_blueberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_crumpets",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_honey",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_raspberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_strawberries",
+    "source": "index_or_inference"
+  },
+  {
+    "recipe_id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "ingredient_id": "i_yoghurt",
+    "source": "index_or_inference"
+  }
+]

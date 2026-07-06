@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "r_rich_beef_and_ale_casserole",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Rich Beef and Ale Casserole",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_mediterranean_beef_burgers",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Mediterranean Beef Burgers",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_peppered_steak_with_mushrooms",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Peppered Steak with Mushrooms",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_skinny_beef_lasagne",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Skinny Beef Lasagne",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_rich_and_meaty_bolognese",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Rich and Meaty Bolognese",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_low_fat_minced_beef_and_potato_pies",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Low-fat Minced Beef and Potato Pies",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cottage_pie",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cottage Pie",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chilli_con_carne",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chilli con Carne",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chilli_salad_bowls",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chilli Salad Bowls",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_italian_meatballs_with_chunky_tomato_sauce",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Italian Meatballs with Chunky Tomato Sauce",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_very_easy_thai_chicken_curry",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Very Easy Thai Chicken Curry",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_jalfrezi",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken Jalfrezi",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_korma",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken Korma",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_masala_marinated_chicken_with_minted_yoghurt_sauce",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Masala-marinated Chicken with Minted Yoghurt Sauce",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_harissa_chicken_with_bulgur_wheat_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Harissa Chicken with Bulgur Wheat Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cajun_spiced_chicken_with_potato_wedges_and_chive_dip",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cajun Spiced Chicken with Potato Wedges and Chive Dip",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_paprika_chicken",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Paprika Chicken",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_sweet_and_sour_chicken",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Sweet and Sour Chicken",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_southern_style_jambalaya",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Southern-style Jambalaya",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_spanish_style_chicken_bake",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Spanish-style Chicken Bake",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_and_mushroom_risotto",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken and Mushroom Risotto",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_old_fashioned_chicken_and_vegetable_stew",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Old-fashioned Chicken and Vegetable Stew",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_easy_crispy_chicken",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Easy Crispy Chicken",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_lemon_and_thyme_roast_chicken",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Lemon and Thyme Roast Chicken",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_and_ham_tangle_pie",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken and Ham Tangle Pie",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_and_parma_ham_topless_sandwiches",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken and Parma Ham Topless Sandwiches",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_roast_chicken_ham_and_grapes_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Roast Chicken, Ham and Grapes Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_coconut_prawn_curry",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Coconut Prawn Curry",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_fragrant_pork_and_prawn_noodle_broth",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Fragrant Pork and Prawn Noodle Broth",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_quick_cod_and_prawn_gratin",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Quick Cod and Prawn Gratin",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_gorgeous_fish_stew_with_garlic_croutons",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Gorgeous Fish Stew with Garlic Croutons",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_roasted_cod_with_parma_ham_and_peppers",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Roasted Cod with Parma Ham and Peppers",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_salmon_with_chilli_ginger_sauce",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Salmon with Chilli Ginger Sauce",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chilli_lemon_tuna_and_broccoli_spaghetti",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chilli Lemon Tuna and Broccoli Spaghetti",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_beachside_paella",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Beachside Paella",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_whole_baked_fish_with_sun_dried_tomatoes",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Whole Baked Fish with Sun-dried Tomatoes",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_mussels_with_leeks_and_white_wine",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Mussels with Leeks and White Wine",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_lamb_tagine",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Lamb Tagine",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_lamb_spinach_and_potato_curry",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Lamb, Spinach and Potato Curry",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_lean_lamb_hotpot",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Lean Lamb Hotpot",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_lemony_lamb_kebabs",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Lemony Lamb Kebabs",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_gammon_with_parsley_sauce",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Gammon with Parsley Sauce",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_roast_pork_with_apple_gravy",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Roast Pork with Apple Gravy",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_our_special_cassoulet",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Our Special Cassoulet",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_spicy_bean_and_vegetable_stew",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Spicy Bean and Vegetable Stew",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_minestrone_soup",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Minestrone Soup",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_golden_vegetable_soup",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Golden Vegetable Soup",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_home_made_butternut_squash_tortellini",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Home-made Butternut Squash Tortellini",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cumin_crusted_vegetables",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cumin-crusted Vegetables",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_warm_griddled_vegetables",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Warm Griddled Vegetables",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_mushroom_feta_and_tomato_baked_peppers",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Mushroom, Feta and Tomato Baked Peppers",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_egg_bacon_and_asparagus_flan",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Egg, Bacon and Asparagus Flan",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_prawn_and_chive_omelette",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Prawn and Chive Omelette",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_minted_pea_and_feta_omelette",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Minted Pea and Feta Omelette",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_baked_haddock_spinach_and_egg_pots",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Baked Haddock, Spinach and Egg Pots",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_pan_fried_bacon_with_poached_egg_and_balsamic_tomatoes",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Pan-fried Bacon with Poached Egg and Balsamic Tomatoes",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_scrambled_eggs_with_smoked_salmon",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Scrambled Eggs with Smoked Salmon",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chicken_caesar_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chicken Caesar Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_tuna_nicoise_wrap",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Tuna Nicoise Wrap",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_simple_tuna_and_sweetcorn_pasta_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Simple Tuna and Sweetcorn Pasta Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_fruity_rice_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Fruity Rice Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_fennel_and_orange_salad_with_harissa_dressing",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Fennel and Orange Salad with Harissa Dressing",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_good_basic_mixed_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Good Basic Mixed Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_posh_prawn_cocktail",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Posh Prawn Cocktail",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_a_very_english_sandwich",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "A Very English Sandwich",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cheese_and_pickle_topless_sandwiches",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cheese and Pickle Topless Sandwiches",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_mackerel_pate_and_watercress_topless_sandwiches",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Mackerel Pâté and Watercress Topless Sandwiches",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cheese_leek_and_onion_pasties",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cheese, Leek and Onion Pasties",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chewy_cranberry_and_apricot_bites",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chewy Cranberry and Apricot Bites",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cranberry_and_almond_muesli",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cranberry and Almond Muesli",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_fresh_fruit_compote_with_home_made_granola",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Fresh Fruit Compote with Home-made Granola",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_peanut_butter_and_apple_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Peanut Butter and Apple Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cheese_and_pickle_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cheese and Pickle Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cottage_cheese_and_tomato_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cottage Cheese and Tomato Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_emmental_and_tomatoes_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Emmental and Tomatoes Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_ham_and_pickle_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Ham and Pickle Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_hummus_and_vegetables_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Hummus and Vegetables Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_prawn_and_cucumber_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Prawn and Cucumber Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_smoked_salmon_and_gherkins_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Smoked Salmon and Gherkins Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_trout_pate_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Trout Pâté Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_marinated_olives_snack",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Marinated Olives Snack",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_roasted_red_pepper_hummus",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Roasted Red Pepper Hummus",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chive_dip",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chive Dip",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_cajun_spice_mix",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Cajun Spice Mix",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_chilli_dressing",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Chilli Dressing",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_harissa_dressing",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Harissa Dressing",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_bulgur_wheat_salad",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Bulgur Wheat Salad",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_plum_rice_pudding",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Plum Rice Pudding",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_sparkling_lemonade_and_lime_jelly",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Sparkling Lemonade and Lime Jelly",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_summer_fruit_meringues",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Summer Fruit Meringues",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_skinny_lemon_cupcakes_with_drizzly_icing",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Skinny Lemon Cupcakes with Drizzly Icing",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_moist_carrot_and_sultana_cake",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Moist Carrot and Sultana Cake",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_swiss_roll",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Swiss Roll",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_light_chocolate_mousse_with_raspberries",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Light Chocolate Mousse with Raspberries",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_fresh_fruit_trifles",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Fresh Fruit Trifles",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  },
+  {
+    "id": "r_toasted_crumpets_and_warm_spiced_berries_with_yoghurt_and_honey",
+    "cookbook_id": "hairy_dieters_001",
+    "title": "Toasted Crumpets and Warm Spiced Berries with Yoghurt and Honey",
+    "source_type": "cookbook_reference",
+    "meal_type": "",
+    "primary_protein": "",
+    "cuisine": "",
+    "spice_level": "",
+    "display_reference": "Use the book index/contents link in Kindle",
+    "description": "",
+    "confidence": {
+      "ingredients": "from photographed index where available; otherwise inferred from title",
+      "meal_type": "AI inferred",
+      "cuisine": "AI inferred",
+      "protein": "AI inferred/from index",
+      "spice": "AI inferred"
+    }
+  }
+]

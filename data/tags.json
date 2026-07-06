@@ -1,0 +1,427 @@
+[
+  {
+    "id": "t_asian",
+    "name": "asian",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_bacon",
+    "name": "bacon",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_bake",
+    "name": "bake",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_beans",
+    "name": "beans",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_beef",
+    "name": "beef",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_breakfast",
+    "name": "breakfast",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_british",
+    "name": "british",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_brunch",
+    "name": "brunch",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_burger",
+    "name": "burger",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_cajun",
+    "name": "cajun",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_cake",
+    "name": "cake",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_casserole",
+    "name": "casserole",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_chicken",
+    "name": "chicken",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_cod",
+    "name": "cod",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_comfort",
+    "name": "comfort",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_curry",
+    "name": "curry",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_dessert",
+    "name": "dessert",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_dinner",
+    "name": "dinner",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_dip",
+    "name": "dip",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_dressing",
+    "name": "dressing",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_eggs",
+    "name": "eggs",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_fakeaway",
+    "name": "fakeaway",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_fish",
+    "name": "fish",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_flan",
+    "name": "flan",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_french",
+    "name": "french",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_fresh",
+    "name": "fresh",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_gammon",
+    "name": "gammon",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_gratin",
+    "name": "gratin",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_grill",
+    "name": "grill",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_ham",
+    "name": "ham",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_harissa",
+    "name": "harissa",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_hotpot",
+    "name": "hotpot",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_indian",
+    "name": "indian",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_italian",
+    "name": "italian",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_kebab",
+    "name": "kebab",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_lamb",
+    "name": "lamb",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_lasagne",
+    "name": "lasagne",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_lunch",
+    "name": "lunch",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_meatballs",
+    "name": "meatballs",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_mediterranean",
+    "name": "mediterranean",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_mexican",
+    "name": "mexican",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_middle_eastern",
+    "name": "middle eastern",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_mild",
+    "name": "mild",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_moroccan",
+    "name": "moroccan",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_mushrooms",
+    "name": "mushrooms",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_mussels",
+    "name": "mussels",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_noodles",
+    "name": "noodles",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_one_pot",
+    "name": "one pot",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_paella",
+    "name": "paella",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_paprika",
+    "name": "paprika",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_pasta",
+    "name": "pasta",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_pasties",
+    "name": "pasties",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_peppers",
+    "name": "peppers",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_pie",
+    "name": "pie",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_pork",
+    "name": "pork",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_prawns",
+    "name": "prawns",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_quick",
+    "name": "quick",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_rice",
+    "name": "rice",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_risotto",
+    "name": "risotto",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_roast",
+    "name": "roast",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_salad",
+    "name": "salad",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_salmon",
+    "name": "salmon",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_sandwich",
+    "name": "sandwich",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_savoury",
+    "name": "savoury",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_seafood",
+    "name": "seafood",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_side",
+    "name": "side",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_slow_cook",
+    "name": "slow cook",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_snack",
+    "name": "snack",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_soup",
+    "name": "soup",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_spanish",
+    "name": "spanish",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_spice_mix",
+    "name": "spice mix",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_spiced",
+    "name": "spiced",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_spicy",
+    "name": "spicy",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_starter",
+    "name": "starter",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_steak",
+    "name": "steak",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_stew",
+    "name": "stew",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_sweet",
+    "name": "sweet",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_sweet_sour",
+    "name": "sweet sour",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_tagine",
+    "name": "tagine",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_thai",
+    "name": "thai",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_traybake",
+    "name": "traybake",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_tuna",
+    "name": "tuna",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_vegetarian",
+    "name": "vegetarian",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_weeknight",
+    "name": "weeknight",
+    "category": "ai_or_ui"
+  },
+  {
+    "id": "t_wrap",
+    "name": "wrap",
+    "category": "ai_or_ui"
+  }
+]

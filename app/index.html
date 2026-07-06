@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kev & Kolo Kitchen</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="brand">Kev & Kolo Kitchen</div>
+    <h1>What are we cooking?</h1>
+    <p>A private cookbook companion. It stores metadata only — recipe titles, tags, ingredients and where to find them.</p>
+  </header>
+
+  <main>
+    <section class="panel human-search">
+      <label for="query">Ask it like a normal human</label>
+      <textarea id="query" rows="3" placeholder="e.g. dinner, pork, mushrooms, spicy but not curry"></textarea>
+      <div class="actions">
+        <button id="find" class="btn primary">Find recipes</button>
+        <button id="clear" class="btn secondary">Clear</button>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="panel"><h2>Meal</h2><div id="mealChips" class="chips"></div></div>
+      <div class="panel"><h2>Protein</h2><div id="proteinChips" class="chips"></div></div>
+      <div class="panel"><h2>What have you got?</h2><div id="ingredientChips" class="chips"></div></div>
+      <div class="panel"><h2>What do you fancy?</h2><div id="tagChips" class="chips"></div></div>
+    </section>
+
+    <section class="panel results-panel">
+      <div id="summary" class="summary"></div>
+      <div id="results"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Book 1 pilot: The Hairy Dieters — How to Love Food and Lose Weight. Open the Kindle book and use the hyperlinked index/contents.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
