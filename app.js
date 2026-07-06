@@ -1,7 +1,7 @@
 const state = { meal:null, protein:null, ingredients:new Set(), tags:new Set() };
 const cap = s => s ? s.split(' ').map(w => w.charAt(0).toUpperCase()+w.slice(1)).join(' ') : '';
 const $ = id => document.getElementById(id);
-async function loadJson(path){ const r = await fetch(path); if(!r.ok) throw new Error(path); return r.json(); }
+async function loadJson(path){ const base = location.hostname.includes('github.io') ? '/kev-and-kolo-kitchen/' : './'; const r = await fetch(base + path.replace(/^\.?\//,'')); if(!r.ok) throw new Error(base + path); return r.json(); }
 let cookbooks=[], recipes=[], ingredients=[], tags=[], recipeIngredients=[], recipeTags=[], synonyms=[];
 let ingredientById={}, tagById={}, cookbookById={};
 const mealTags = ['breakfast','lunch','dinner','snack','dessert'];
